@@ -56,8 +56,8 @@ github.com/pion/transport/v4 v4.1.0 h1:8S+nF2reM2cJuqC6g78OVy2BBgmbdns+acx3jA97B
 github.com/pion/transport/v4 v4.1.0/go.mod h1:06hFI+jCFcok2X2MekVufNZ/uzNZXivGBPfviSVcjgM=
 github.com/pires/go-proxyproto v0.15.0 h1:dTshmNbFm/D+0+sbrxUuddPOZ5Y0B7c5NhtsBkm6LqI=
 github.com/pires/go-proxyproto v0.15.0/go.mod h1:OXsCrKwrK2tXS9YrI5tkHx5xaQlO8FH3lFW76orFh24=
-github.com/pvk0/Xray-core v1.260327.1-0.20261019174705-74ef611ba6d1 h1:AFFOeuVWr8kCgKeHeQNx9276E/FYOW1BifgWQ5804zU=
-github.com/pvk0/Xray-core v1.260327.1-0.20261019174705-74ef611ba6d1/go.mod h1:K9/USkul3qakG3i/i53FcMEmSBzc8YScZMa5vPZZtOg=
+github.com/pvk0/Xray-core v1.260327.1-0.20261019195048-5d41cd37d2a4 h1:Gint/I1UNEwdjUXqGkqXfAn77dPHO672dp60MKr/I10=
+github.com/pvk0/Xray-core v1.260327.1-0.20261019195048-5d41cd37d2a4/go.mod h1:K9/USkul3qakG3i/i53FcMEmSBzc8YScZMa5vPZZtOg=
 github.com/quic-go/go-ossfuzz-seeds v0.1.0 h1:APacT+iIaNF6fd8AGEiN3bT/Jtkd2jz4v4TzM7MFjy0=
 github.com/quic-go/go-ossfuzz-seeds v0.1.0/go.mod h1:3IOHRbJIc+L6YKMwfDtJAM9Vj9k0YY4muhuyUYk5tbk=
 github.com/quic-go/qpack v0.6.0 h1:g7W+BMYynC1LbYLSqRt8PBg5Tgwxn214ZZR34VIOjz8=
